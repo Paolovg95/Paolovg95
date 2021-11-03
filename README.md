@@ -1,5 +1,4 @@
 ### Hi there 👋, 👋 🤙 🚀 🌎 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 My name is Paolo from Paraguay 🇵🇾  Recently graduated student with a bachelor's degree in Mechanical Engineering & Technology in Taiwan 🇹🇼
 Currently attending Le Wagon's Web Development Bootcamp in Rio de Janeiro, Brazil 🇧🇷 Learning new emerging technologies in the web developing world 💫 
