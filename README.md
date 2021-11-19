@@ -2,13 +2,14 @@
 
 My name is Paolo from Paraguay 🇵🇾  Recently graduated student with a bachelor's degree in Mechanical Engineering & Technology in Taiwan 🇹🇼
 Currently attending Le Wagon's Web Development Bootcamp in Rio de Janeiro, Brazil 🇧🇷 Learning new emerging technologies in the web developing world 💫 
-HTML & CSS, JavaScript and Ruby. Also tools such as: Stimulus JS, Bootstrap, SQL, Git & GitHub ,OOP, ES6, Ruby on Rails. Motivated to learn new skills, face new challenges and develop my own projects 
+HTML & CSS, JavaScript and Ruby. Also tools such as: Stimulus JS, Bootstrap, SQL, Git & GitHub ,OOP, ES6, Ruby on Rails. 
+Motivated to learn new skills, face new challenges and develop my own projects.
 
 ## Skills: 
-Ruby on Rails 💎/ ORM (Active Record) 🗄 /JS 💛 / HTML & CSS 🖍 / Git 📥📤 / Bootstrap 👾 / SQL 📂
+Ruby on Rails 💎/ ORM (Active Record) 🗄 /JS 💛 / HTML & CSS 🖍 / Git 📥 / Bootstrap 👾 / SQL 📂
 
-- 🔭 I’m currently working on Aribnb Clone using Ruby on Rails 
-- 🌱 I’m currently learning UI/UX Design with Figma 👽 
+- 🔭 Working on different projects using Ruby on Rails 
+- 🌱 Learning UI/UX Design with Figma
 - 📫 How to reach me: paolo9517@gmail.com
 
 
