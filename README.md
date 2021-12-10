@@ -19,5 +19,4 @@ Ruby on Rails 💎/ ORM (Active Record) 🗄 /JS 💛 / HTML & CSS 🖍 / Git �
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paolovg95&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paolovg95)  
 
