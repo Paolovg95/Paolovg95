@@ -1,7 +1,7 @@
 ### 👋 🌎
 
-My name is Paolo from Paraguay 🇵🇾  Recently graduated student with a bachelor's degree in Mechanical Engineering & Technology in Taiwan 🇹🇼
-Currently attending Le Wagon's Web Development Bootcamp in Rio de Janeiro, Brazil 🇧🇷 Learning new emerging technologies in the web developing world 💫 
+Paraguayan 🇵🇾  Recently graduated student with a bachelor's degree in Mechanical Engineering & Technology 🇹🇼
+Currently attending Le Wagon's Web Development Bootcamp in Rio de Janeiro 🇧🇷 Learning new emerging technologies in the web developing world 💫 
 HTML & CSS, JavaScript and Ruby. Also tools such as: Stimulus JS, Bootstrap, SQL, Git & GitHub ,OOP, ES6, Ruby on Rails. 
 Motivated to learn new skills, face new challenges and develop my own projects.
 
