@@ -6,7 +6,7 @@ HTML & CSS, JavaScript and Ruby. Also tools such as: Stimulus JS, Bootstrap, SQL
 Motivated to learn new skills, face new challenges and develop my own projects.
 
 ## Skills: 
-Ruby on Rails 💎/ ORM (Active Record) 🗄 /JS 💛 / HTML & CSS 🖍 / Git 📥 / Bootstrap 👾 / SQL 📂
+Ruby on Rails/ ORM (Active Record) /JS / HTML & CSS / Git / Bootstrap / SQL
 
 - 🔭 Working on different projects using Ruby on Rails 
 - 🌱 Learning UI/UX Design with Figma
