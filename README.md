@@ -1,15 +1,15 @@
 ### 👋 🌎
 
-Graduated bachelor's degree in Mechanical Engineering & Technology and 
-Graduated from Le Wagon's Web Development Bootcamp in Rio de Janeiro. 
-Python, Django, HTML & CSS, JavaScript and Ruby. Also tools such as: Stimulus JS, Bootstrap, SQL, Git & GitHub, Figma
+Mechanical Engineer & and Web Developer
+
+Python, Django, HTML & CSS, JavaScript and Ruby, Bootstrap, SQL.
 Always to learning new skills, face new challenges and develop new projects.
 
 ## Skills: 
-Ruby on Rails/ Ruby /Python/ Django/ JS/ HTML & CSS/ Git/ Bootstrap/ SQL
+ Python/ Django/HTML & CSS/ / JS/ Bootstrap/ SQL
 
 
-- 🔭 Working on different projects using Django, VueJS.
+- 🔭 Working on different projects trying Django-VueJS and Django-HTMX
 - 📫 How to reach me: paolo9517@gmail.com
 
 
